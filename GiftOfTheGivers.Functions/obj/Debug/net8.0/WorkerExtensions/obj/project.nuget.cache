@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpIK+93D2W4=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Signl\\source\\repos\\Gift_of_the_Givers_Relief_App\\GiftOfTheGivers.Functions\\obj\\Debug\\net8.0\\WorkerExtensions\\WorkerExtensions.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.Targets (>= 3.0.0)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\Signl\\source\\repos\\Gift_of_the_Givers_Relief_App\\GiftOfTheGivers.Functions\\obj\\Debug\\net8.0\\WorkerExtensions\\WorkerExtensions.csproj",
+      "filePath": "C:\\Users\\Signl\\source\\repos\\Gift_of_the_Givers_Relief_App\\GiftOfTheGivers.Functions\\obj\\Debug\\net8.0\\WorkerExtensions\\WorkerExtensions.csproj",
+      "libraryId": "Microsoft.NETCore.Targets",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Sdk.Functions (>= 4.6.0)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\Signl\\source\\repos\\Gift_of_the_Givers_Relief_App\\GiftOfTheGivers.Functions\\obj\\Debug\\net8.0\\WorkerExtensions\\WorkerExtensions.csproj",
+      "filePath": "C:\\Users\\Signl\\source\\repos\\Gift_of_the_Givers_Relief_App\\GiftOfTheGivers.Functions\\obj\\Debug\\net8.0\\WorkerExtensions\\WorkerExtensions.csproj",
+      "libraryId": "Microsoft.NET.Sdk.Functions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

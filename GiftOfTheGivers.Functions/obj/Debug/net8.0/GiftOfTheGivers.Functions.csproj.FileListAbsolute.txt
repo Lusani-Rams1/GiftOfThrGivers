@@ -1,0 +1,16 @@
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.csproj.AssemblyReference.cache
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.AssemblyInfoInputs.cache
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.AssemblyInfo.cs
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.csproj.CoreCompileInputs.cache
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.dll
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\refint\GiftOfTheGivers.Functions.dll
+C:\Users\Signl\Source\Repos\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.pdb
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.csproj.AssemblyReference.cache
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.AssemblyInfoInputs.cache
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.AssemblyInfo.cs
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.csproj.CoreCompileInputs.cache
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.dll
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\refint\GiftOfTheGivers.Functions.dll
+C:\Users\Signl\source\repos\Gift_of_the_Givers_Relief_App\GiftOfTheGivers.Functions\obj\Debug\net8.0\GiftOfTheGivers.Functions.pdb
